@@ -1,4 +1,4 @@
-# MiniTwitterCodingChallenge
+# Mini messaging service
 
 This project is the backend of a mini-messaging service inspired by Twitter. It is a RESTful Web Application developed from a Spring Boot project and consists of the following endpoints:
 
